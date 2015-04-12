@@ -398,14 +398,14 @@
         <!--Apache Derby-->
         <version.wso2.derby>10.3.2.1wso2v1</version.wso2.derby>
         <emma.version>2.1.5320</emma.version>
-        <carbon.commons.version>4.3.6</carbon.commons.version>
-        <carbon.identity.version>4.3.2</carbon.identity.version>
+        <carbon.commons.version>4.4.0</carbon.commons.version>
+        <carbon.identity.version>4.3.4</carbon.identity.version>
         <carbon.registry.version>4.3.0</carbon.registry.version>
         <carbon.messaging.version>3.0.0-SNAPSHOT</carbon.messaging.version>
         <carbon.multitenancy.version>4.3.4</carbon.multitenancy.version>
         <carbon.storagemgt.version>4.3.1</carbon.storagemgt.version>
         <carbon.metrics.version>1.0.0</carbon.metrics.version>
-        <carbon.kernel.version>4.3.0</carbon.kernel.version>
+        <carbon.kernel.version>4.4.0</carbon.kernel.version>
         <andes.version>3.0.0-SNAPSHOT</andes.version>
         <!--product version-->
         <product.mb.version>3.0.0-SNAPSHOT</product.mb.version>
@@ -430,8 +430,8 @@
                 <version>3.1</version>
                 <configuration>
                     <encoding>UTF-8</encoding>
-                    <source>1.6</source>
-                    <target>1.6</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                 </configuration>
             </plugin>
         </plugins>
