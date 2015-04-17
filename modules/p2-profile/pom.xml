@@ -230,11 +230,6 @@
                                     <version>${carbon.commons.version}</version>
                                 </feature>
                                 <feature>
-                                    <id>org.wso2.carbon.registry.core.ui.feature.group</id>
-                                    <version>${carbon.registry.version}</version>
-                                </feature>
-
-                                <feature>
                                     <id>org.wso2.carbon.event.feature.group</id>
                                     <version>${carbon.commons.version}</version>
                                 </feature>
